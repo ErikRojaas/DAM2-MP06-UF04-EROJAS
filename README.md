@@ -1,6 +1,6 @@
 # Plantilla projecte Java amb Maven DAM2-MP06 #
 
-![maven](https://github.com/ErikRojaas/DAM2-MP06-UF04-EROJAS/actions/workflows/maven.yml/badge.svg)
+![maven workflow](https://github.com/ErikRojaas/DAM2-MP06-UF04-EROJAS/actions/workflows/maven.yml/badge.svg)
 
 
 ## Arrencada ràpida ##
