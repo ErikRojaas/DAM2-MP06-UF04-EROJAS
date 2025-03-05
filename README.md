@@ -2,6 +2,7 @@
 
 ![maven workflow](https://github.com/ErikRojaas/DAM2-MP06-UF04-EROJAS/actions/workflows/maven.yml/badge.svg)
 
+
 ## Arrencada ràpida ##
 Execució ràpida dels diferents exemples i resolusions de problemes
 
